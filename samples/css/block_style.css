@@ -1,0 +1,52 @@
+
+div.box
+{
+
+  background: #333;
+  color:#fff;
+
+  padding: 30px;
+
+  width:200px;
+  height:100px;
+
+  border: 1px solid #ccc;
+}
+
+
+.spanBox
+{
+  width:200px;
+  height:100px;
+  border: 5px dotted #d70000;
+  display: block;
+  margin: 25px;
+}
+
+.left
+{
+  float: left;
+}
+
+.right
+{
+  float: right;
+}
+
+.clear
+{
+  clear: both;
+}
+
+.addMargin
+{
+  margin: 25px;
+}
+
+.bigBox
+{
+  width: 1000px;
+  height: 200px;
+  border: 10px solid #ccc;
+  margin: 0 auto;
+}

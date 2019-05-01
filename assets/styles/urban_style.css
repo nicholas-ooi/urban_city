@@ -1,0 +1,47 @@
+.nav-item
+{
+  font-size: 16px;
+  font-weight: bold;
+  margin: 15px;
+}
+
+.customImage
+{
+  height: 290px;
+}
+
+@media (min-width: 576px) {
+
+  #carouselExampleFade .carousel-item img
+  {
+    min-height: 200px;
+  }
+
+}
+
+@media (min-width: 768px) {
+
+  #carouselExampleFade .carousel-item img
+  {
+    height: 400px;
+  }
+
+}
+
+@media (min-width: 992px) {
+
+  #carouselExampleFade .carousel-item img
+  {
+    height: 400px;
+  }
+
+}
+
+@media (min-width: 1200px) {
+
+  #carouselExampleFade .carousel-item img
+  {
+    height: 300px;
+  }
+
+}
